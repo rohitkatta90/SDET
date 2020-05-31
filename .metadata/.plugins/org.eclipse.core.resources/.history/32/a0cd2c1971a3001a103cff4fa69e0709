@@ -1,0 +1,22 @@
+package SDET.DatabaseConnection;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class JsonToJava {
+	
+	public static void main(String args[]) throws ClassNotFoundException {
+		
+		//Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection conn = null;
+		try {
+			DriverManager.getConnection("");
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+
+}

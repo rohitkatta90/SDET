@@ -1,0 +1,159 @@
+2020-06-01 00:10:55,765 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-01 00:18:25,463 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/rkkatta/Documents/SDET/DatabaseConnection/pom.xml
+2020-06-01 00:18:26,467 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SDET:DatabaseConnection:0.0.1-SNAPSHOT @ /Users/rkkatta/Documents/SDET/DatabaseConnection/pom.xml.
+2020-06-01 00:18:26,892 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DatabaseConnection/src/main/java
+2020-06-01 00:18:26,896 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DatabaseConnection/src/test/java
+2020-06-01 00:18:28,132 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-06-01 00:18:29,059 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:18:29,061 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:18:29,063 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:18:29,063 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:21:36,955 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SDET:DatabaseConnection:0.0.1-SNAPSHOT @ /Users/rkkatta/Documents/SDET/DatabaseConnection/pom.xml.
+2020-06-01 00:21:38,940 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.pom
+2020-06-01 00:21:39,216 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.pom
+2020-06-01 00:21:39,369 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+2020-06-01 00:21:39,620 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+2020-06-01 00:21:39,783 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+2020-06-01 00:21:39,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+2020-06-01 00:21:40,090 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.jar
+2020-06-01 00:21:42,787 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.jar
+2020-06-01 00:21:42,940 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar
+2020-06-01 00:22:01,676 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar
+2020-06-01 00:22:01,868 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:01,868 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:22:01,870 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:01,870 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:22:03,482 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20-sources.jar
+2020-06-01 00:22:05,244 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:05,244 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:22:05,245 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:05,245 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:22:06,994 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20-sources.jar
+2020-06-01 00:22:07,066 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.20
+2020-06-01 00:22:07,810 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2020-06-01 00:22:08,941 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2020-06-01 00:22:08,963 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.6.1
+2020-06-01 00:22:09,093 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:09,093 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:22:09,094 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:09,094 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:22:13,968 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:13,968 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:22:13,969 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:13,970 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:22:35,049 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:35,049 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:22:35,050 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:22:35,050 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:23:07,923 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:23:07,923 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:23:07,924 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:23:07,924 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:25:14,840 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:25:14,840 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:25:14,845 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:25:14,845 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:27:04,930 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:27:04,930 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:27:04,932 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:27:04,933 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:27:25,038 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:27:25,038 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:27:25,039 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:27:25,040 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:28:03,205 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:28:03,206 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:28:03,207 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:28:03,207 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:28:59,062 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:28:59,062 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:28:59,063 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:28:59,064 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:31:13,905 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:13,905 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:31:13,907 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:13,907 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:31:32,378 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:32,378 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:31:32,379 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:32,379 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:31:41,726 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:41,726 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:31:41,727 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:41,727 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:31:46,754 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:46,754 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:31:46,756 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:31:46,756 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:32:03,162 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:32:03,163 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:32:03,167 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:32:03,168 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:34:29,224 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:34:29,226 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:34:29,227 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:34:29,228 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:35:19,599 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:35:19,600 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:35:19,601 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:35:19,601 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:36:36,685 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:36:36,687 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:36:36,688 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:36:36,689 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:36:50,747 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:36:50,747 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:36:50,748 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:36:50,748 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:39:00,398 [Worker-22: Launching JsonToJava] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:39:00,399 [Worker-22: Launching JsonToJava] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:39:00,400 [Worker-22: Launching JsonToJava] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:39:00,400 [Worker-22: Launching JsonToJava] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:39:13,583 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:39:13,583 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:39:13,584 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:39:13,584 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:39:28,037 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:39:28,038 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:39:28,039 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:39:28,039 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:40:58,945 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:40:58,945 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:40:58,946 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:40:58,947 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:41:15,797 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:41:15,797 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:41:15,798 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:41:15,799 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:41:37,712 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:41:37,713 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:41:37,713 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:41:37,714 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:41:51,907 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:41:51,907 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:41:51,908 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:41:51,908 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:42:21,269 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:42:21,270 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:42:21,271 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:42:21,271 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:43:55,969 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:43:55,969 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:43:55,970 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:43:55,970 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:44:08,882 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:44:08,882 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:44:08,884 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:44:08,884 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:44:54,798 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:44:54,798 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:44:54,799 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:44:54,799 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:45:09,079 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:45:09,079 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:45:09,080 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:45:09,081 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
+2020-06-01 00:46:11,141 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:46:11,142 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/main/resources
+2020-06-01 00:46:11,143 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 00:46:11,144 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rkkatta/Documents/SDET/DatabaseConnection/src/test/resources
